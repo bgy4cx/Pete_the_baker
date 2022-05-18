@@ -2,4 +2,4 @@
 
 ## 1. part
 
-- Questions and decesions.
+- The function works
