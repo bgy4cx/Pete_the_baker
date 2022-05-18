@@ -1,2 +1,2 @@
-def main():
-    return False
+def cakes(recipe, available):
+    return -1

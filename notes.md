@@ -21,9 +21,9 @@
 
 ### Guardinas
 
-- Input is two objects
-- Output is a number
+- Input is two objects 🔴💿
+- Output is a number 🔴💿
 
 ### Process
 
-- It should return the maximum number of cakes that Pete can bake
+- It should return the maximum number of cakes that Pete can bake 🔴💿
